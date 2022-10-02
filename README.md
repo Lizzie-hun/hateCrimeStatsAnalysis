@@ -46,6 +46,6 @@ I used Python, Pandas, and Altair for my data analysis.
 
 # Future Work
 
-*There are several charts I would like to improve to make more readable
-*Filter the data better at the beginning
-*Learn how to save the results to a new CSV file
+* There are several charts I would like to improve to make more readable
+* Filter the data better at the beginning
+* Learn how to save the results to a new CSV file
